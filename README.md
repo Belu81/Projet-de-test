@@ -1,7 +1,3 @@
-Bonjour tous le monde !!!
+## README.md ##
 
-Bonjour tous le monde !!!
-Bonjour tous le monde !!!
-Bonjour tous le monde !!!
-
-Bonjour Cathy SEGURA !!!
+Bruno SEGURA
